@@ -113,3 +113,5 @@ Informasi ini disusun dalam format JSON, memungkinkan akses dan pemanfaatan yang
     "003": "CONDONG CATUR"
 }
 ```
+
+## Download Here: [Indonesian Area Json Data](https://buymeacoffee.com/hanifabdlh/e/245368)
