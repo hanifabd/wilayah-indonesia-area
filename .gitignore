@@ -3,4 +3,4 @@
 private_README.md
 *.pyc
 *.txt
-*.zip
+# *.zip
