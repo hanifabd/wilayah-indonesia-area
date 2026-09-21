@@ -1,3 +1,5 @@
+
+
 # Indonesian Area Data | Data Wilayah Indonesia - JSON Format Per Level (Raw Data)
 This Data is a comprehensive dataset encompassing administrative divisions such as provinces (provinsi), regencies (kabupaten), districts (kecamatan), and villages (kelurahan/desa). Compiled from official sources like the Badan Pusat Statistik (BPS) and the Kementerian Dalam Negeri (Kemendagri). 
 
@@ -9,7 +11,7 @@ Data ini adalah kumpulan data komprehensif yang mencakup pembagian administratif
 
 Informasi ini disusun dalam format JSON, memungkinkan akses dan pemanfaatan yang efisien. Dengan kumpulan data ini, pengguna dapat menavigasi hierarki administratif Indonesia, memfasilitasi berbagai aplikasi seperti analisis demografi, alokasi sumber daya, dan perencanaan kota.
 
-## Area Level - Latest Data Get on `April, 19 2024`
+## Area Level - Latest Data Get on `April 19, 2024`
 |Level|Items|
 |---|---|
 |Provinces (Provinsi)|38|
